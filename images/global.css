@@ -1,0 +1,63 @@
+A:link {
+	FONT-SIZE: 9pt; COLOR: blue; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: red; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+BODY {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 15pt; FONT-FAMILY: '宋体'
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"
+}
+INPUT {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"
+}
+SELECT {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"
+}
+TR.ViweBar {
+	BACKGROUND-COLOR: #d7e4e5
+}
+.CurrentPage {
+	COLOR: red
+}
+.SwitchView {
+	
+}
+TD.commonButton {
+	BACKGROUND-COLOR: #d6ebff
+}
+TR.Label01 {
+	BACKGROUND-COLOR: #9ccbff
+}
+TR.Label02 {
+	BACKGROUND-COLOR: #5aaeff
+}
+.tableType {
+	FONT-SIZE: 9pt; FONT-FAMILY: '宋体'; BORDER-COLLAPSE: collapse
+}
+.tableTitle_y {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #ffcc00; TEXT-ALIGN: center
+}
+.rowcolor_y {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #ffedb0; TEXT-ALIGN: center
+}
+.rowNocolor_y {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #fffcd2; TEXT-ALIGN: center
+}
+.tableTitle_b {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #bcddee; TEXT-ALIGN: center
+}
+.rowcolor_b {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+.rowNocolor_b {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}

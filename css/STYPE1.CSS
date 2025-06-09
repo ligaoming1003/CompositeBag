@@ -1,0 +1,10 @@
+    TD {FONT-SIZE: 12px;COLOR:#000000}
+     P {FONT-SIZE: 12px;COLOR:#000000}
+ A:link{text-decoration:none;color:#000000};
+ A:visited{text-decoration:none;color:#000000};
+ A:hover{text-decoration:underline;color:#0000ff};
+  .box { FONT-SIZE: 12px; HEIGHT: 18px }
+ .unnamed1 {  border-color: #FF6600 black; border-style: dashed; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px; font-size: 9pt}
+.unnamed2 {  font-size: 10px}
+.box2{  font-size: 9pt; color: #053396; background-color: #f7f7f7; border: #333333; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;padding-top:1px;height:18px}
+.box3{  font-size: 9pt; color: #ffffff; background-color: #333333; border: #333333; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;padding-top:1px;height:14px}
