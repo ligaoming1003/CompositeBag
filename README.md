@@ -2,7 +2,7 @@
 
 1、将wwwroot文件夹复制到服务端的根目录下。
 
-2、在wwwroot文件夹中找到conn.asp文件，用记事本打开该文件，修改server=服务器的ip地址;如：server=168.192.0.88;uid=sa;pwd=Www13013197365;database=shsg（原来数据库名）
+2、在wwwroot文件夹中找到conn.asp文件，用记事本打开该文件，修改server=服务器的ip地址；如：server=168.192.0.88；uid=sa;pwd=Www13013197365；database=shsg（原来数据库名）。
 
 3、将wwwroot文件夹中backup子文件夹中的backup文件，还原到创建的数据库上 shsg
 
